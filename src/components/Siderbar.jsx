@@ -41,7 +41,7 @@ const Siderbar = () => {
                     </div>
                 </section>
             </main>
-            <hr className='w-full relative top-2' />
+            <hr className='w-full relative top-2 opacity-20' />
             <footer className="h-1/8 flex justify-center">
                 <button
                     type='button'
